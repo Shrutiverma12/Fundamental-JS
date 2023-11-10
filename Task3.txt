@@ -1,0 +1,32 @@
+Unary Operators in JavaScript
+Unary operators are the simplest of the three categories of JavaScript 
+operators. They operate on a single operand, which is a variable or a value. You 
+can use unary operators to increment or decrement a variable, change the sign of 
+a number, or perform logical negation.
+Example-
+let x = 5;
+
+x++; // Increment x by 1, now x is 6
+
+x--; // Decrement x by 1, now x is 5 again
+
+Binary Operators in JavaScript
+Binary operators take two operands, which can be variables, values, or 
+expressions, and they perform operations on them. You can use binary operators 
+for arithmetic, logical, and comparison operations.
+Example-
+let sum = 3 + 4; // sum is 7
+let product = 5 * 6; // product is 30
+let isEqual = (x == y);
+// isEqual is false (assuming x and y are different)
+
+The Ternary Operator
+There is a single ternary operator which you can use to produce more concise code
+Example-
+let age = 20;
+
+let status = age >= 18 ? "Adult" : "Minor";
+
+// age is 20, so status will be "Adult";
+
+// if age was 15, status would be "Minor"

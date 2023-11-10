@@ -1,0 +1,24 @@
+JavaScript Operator Precedence
+Operator precedence describes the order in which operations are performed in an arithmetic expression.
+
+Multiplication (*) and division (/) have higher precedence than addition (+) and 
+subtraction (-).
+
+As in traditional mathematics, multiplication is done first.
+When using parentheses, operations inside the parentheses are computed first.
+Operations with the same precedence (like * and /) are computed from left to right.
+
+Associativity: Associativity in general states that irrespective of the order of 
+operands for a given operation the result remains the same.
+
+The first operation is associativity where the order does not matter. The second 
+case is precedence, where in order to reach the desired result there has to be a 
+proper order in which operations will be performed. 
+
+Why these are important-
+Operator precedence refers to the priority given to operators while parsing a 
+statement that has more than one operator performing operations in it. It is 
+important to ensure the correct result and also to help the compiler understand 
+what the order of operations should be. Operators with higher priorities are 
+resolved first. But as one goes down the list, the priority decreases and hence 
+their resolution.

@@ -1,0 +1,70 @@
+The three categories of operators based on the number of operands they require are:
+
+Unary operators: which require one operand (Un)
+These operators require one operand for operation. Providing two or more can result in a syntax error. Here are some examples of operators that fall under this category.
+
+1-the typeof operator
+The typeof operator returns the data type of a value. It requires only one operand. Here's an example:
+typeof "hello"(string)
+
+2-The delete operator
+You can use the delete operator to delete an item in an array or delete a 
+property in an object. It's a unary operator that requires only one operand. 
+Here's an example with an array:
+const array = [2,3,4]
+delete array[2]
+
+3-The Unary plus + operator
+This operator is not to be confused with the arithmetic plus operator. The unary plus operator attempts to convert a non-number value to a number. It returns NaN where impossible. Here's an example:
++"200"
+// 20 - number
+
+4-increment ++ and decrement --
+The increment (++) and decrement (--) operators are used to increase or decrease 
+the value of a variable
+by 1, respectively.Here's an example:
+let count = 5;
+count++;
+//count will be 6 now
+
+6- Logical NOT ! operators
+
+
+Binary operators: which require two operands (Bi)
+These operators require two operands for operation. If one or more than two 
+operands are provided, such operators result in a syntax error.
+
+1-Arithmetic Operators
+All arithmetic operators are binary operators. You have the first operand on the 
+left of the operator, and the second operand on the right of the operator. Here 
+are some examples:
+10 + 20
+// 30
+
+2-Comparison Operators
+All comparison operators also require two operands. Here are some examples:
+80 < 20
+// false
+10 < 40
+// true
+2 >= 2
+// true
+
+3-Assignment Operator =
+The assignment operator is also a binary operator as it requires two operands. 
+For example:
+const number = 20
+
+Ternary operators: which require three operands (Ter)
+These operators require three operands. In JavaScript, there is one operator 
+that falls under this category – the conditional operator. In other languages, 
+perhaps, there could be more examples.
+The Conditional Operator ? ... :
+The conditional operator requires three operands:
+the conditional expression
+the truthy expression which gets evaluated if the condition is true
+the falsy expression which gets evaluated if the condition is false.
+Here's an example of how it works:
+const score = 80
+const scoreRating = score > 50 ? "Good" : "Poor"
+// "Good"

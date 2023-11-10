@@ -1,0 +1,16 @@
+Role of operators in JavaScript -
+Operators are used to assign values, compare values, perform arithmetic operations, and more.
+
+
+There are different types of JavaScript operators:
+
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Conditional Operators
+Type Operators
+
+
+Why it is essential in programming-
+An operator manipulates an arithmetic or logical value, or operand, in a specific way to generate a specific result. From handling simple arithmetic functions to facilitating the execution of complex algorithms, like security encryption, operators play an important role in the programming world.

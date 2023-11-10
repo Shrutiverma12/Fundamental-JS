@@ -1,0 +1,13 @@
+Both of these are computer languages that help in programming, but there is a 
+major difference between JavaScript and HTML. While JavaScript (abbreviated as 
+JS) is a scripting language, HTML is a markup language.
+
+We use HTML to create web pages or web applications. We can also embed JS 
+programs in the form of scripts in the HTML code. This converts the overall 
+static form of the web content into a dynamic form, i.e., it modifies the 
+content on the web pages without having to reload it. Thus, the content would 
+keep changing in real-time, like in those cryptocurrency websites.
+
+We use the JS to make pages more interactive for visitors, like in weather 
+forecast websites or cryptocurrency update pages.
+HTML is mainly used to define a web page’s basic structure and layout

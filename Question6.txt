@@ -1,0 +1,14 @@
+Developers name everything from variables, functions, classes to files, however 
+many times we focus on solving a problem and we do not worry about readability 
+and best practices while naming. Variable naming is an important aspect in 
+making your code readable so, you should follow a simple idea: Create variables 
+that describe their function.There is a reason why we do not use memory 
+addresses and have names instead: names are much easier to recall. And, more 
+importantly, they can give you more information about the variable, so someone 
+else can understand its significance.
+Bad:
+var d; // elapsed time in days
+Good:
+var elapsedTimeInDays;
+var daysSinceCreation;
+var daysSinceModification;

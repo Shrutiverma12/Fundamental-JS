@@ -1,0 +1,33 @@
+Below is a list of Primitive Data Types with proper descriptions and examples:
+1. Number: Number data type in javascript can be used to hold decimal values as 
+well as values without decimals.
+let x = 250; 
+let y = 40.5;
+
+2. String: The string data type in javascript represents a sequence of 
+characters that are surrounded by single or double quotes.
+let str = 'Hello All'; 
+let str1 = "Welcome to my new house"; 
+
+3. Undefined: The meaning of undefined is ‘value is not assigned’.
+console.log("Value of x=" + x);
+undefined  output
+
+4. Boolean: The boolean data type can accept only two values i.e. true and false.
+console.log("value of bool=" + bool); 
+value of bool=true;
+
+5. Null: This data type can hold only one possible value that is null.
+let x = null; 
+
+6. BigInt: This data type can represent numbers greater than 253-1 which helps 
+to perform operations on large numbers. The number is specified by writing ‘n’ 
+var bigNum = 123422222222222222222222222222222222222n 
+
+7. Symbol: This data type is used to create objects which will always be unique. 
+these objects can be created using Symbol constructor.
+var sym = Symbol("Hello") 
+console.log(typeof(sym)); 
+console.log(sym);
+//symbol
+//Symbol(Hello)

@@ -1,0 +1,13 @@
+JavaScript is the Programming Language for the Web.
+JavaScript can update and change both HTML and CSS.
+JavaScript can calculate, manipulate and validate data.
+
+Role of JS in web development-
+JavaScript (JS) is very popular and adopted universally by every web browser for 
+its support which allows dynamic content to get executed in a webpage. It's an 
+object scripting language which is used in web pages along with markup language 
+HTML. JavaScript does not incorporate or abide by any HTML tags or rules. It is 
+similar to the stand-alone programming language developed by Sun Microsystems. 
+JavaScript got its success worldwide with its integration into the web browsers. 
+JS stands unique as it brings out all the special functionalities in the 
+client’s browser instead of the site’s server.
